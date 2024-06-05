@@ -20,7 +20,9 @@ dots.init();
     dots.connect();
 }
 
+// Mas comentarios
 function draw(){
+
     background(10);
 // Draw lines before drawing dots, so lines
 // don't show up on top.
